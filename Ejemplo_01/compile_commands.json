@@ -1,0 +1,9 @@
+[{
+  "file": "C:\\Users\\leona\\Documents\\Ejemplo_01\\Ejemplo_02\\main.cpp",
+  "directory": "C:\\Users\\leona\\Documents\\Ejemplo_01\\Ejemplo_02",
+  "command": "clang++ -c C:\\Users\\leona\\Documents\\Ejemplo_01\\Ejemplo_02\\main.cpp -o C:\\Users\\leona\\Documents\\Ejemplo_01\\Ejemplo_02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\leona\\Documents\\Ejemplo_01\\Ejemplo_01\\main.cpp",
+  "directory": "C:\\Users\\leona\\Documents\\Ejemplo_01\\Ejemplo_01",
+  "command": "clang++ -c C:\\Users\\leona\\Documents\\Ejemplo_01\\Ejemplo_01\\main.cpp -o C:\\Users\\leona\\Documents\\Ejemplo_01\\Ejemplo_01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

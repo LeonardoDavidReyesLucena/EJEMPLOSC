@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\leona\\Documents\\Ejemplo_06\\Ejemplo_06\\main.cpp",
+  "directory": "C:\\Users\\leona\\Documents\\Ejemplo_06\\Ejemplo_06",
+  "command": "clang++ -c C:\\Users\\leona\\Documents\\Ejemplo_06\\Ejemplo_06\\main.cpp -o C:\\Users\\leona\\Documents\\Ejemplo_06\\Ejemplo_06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
